@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello! 👋
-### About Me
+### Nice to meet you! 👋
+## About Me
 <p>
   <img align="left" height="200" src="https://i.imgur.com/FgmeE0v.gif">
 </p>
@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 🎮 Anime, video game, webtoon enthusiast
 
-📫 Connect with me on &nbsp;<a href="https://linkedin.com/in/jennarim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jennarim" height="17" width="17" /></a>
+## Currently
+🔭 Working on an anonymous posting board for acts of kindness built with the MERN stack
 
-### Currently
-🔭 Working on an anonymous posting board for acts of kindness w/ the MERN stack
 📘 Reading *Head First Design Patterns*

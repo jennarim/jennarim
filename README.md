@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 👩🏻‍💻 Hobbyist web developer
 
-👩‍🏫 Proud Rewriting the Code Fellow
+👩🏻‍🏫 Proud Rewriting the Code Fellow
 
 🎮 Anime, video game, webtoon enthusiast
 
@@ -33,3 +33,5 @@ Here are some ideas to get you started:
 🔭 Working on an anonymous posting board for acts of kindness built with the MERN stack
 
 📘 Reading *Head First Design Patterns*
+
+🎵 Listening to *Persona 5* Soundtrack

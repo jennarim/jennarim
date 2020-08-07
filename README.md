@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 🎮 Anime, video game, webtoon enthusiast
 
 📫 Connect with me on &nbsp;<a href="https://linkedin.com/in/jennarim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jennarim" height="17" width="17" /></a>
-<br>
-
+<br></br>
 ## Currently
 🔭 Working on an anonymous posting board for acts of kindness built with the MERN stack
 

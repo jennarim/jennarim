@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Nice to meet you! 👋
 ## About Me
 <p>
-  <img align="left" height="200" src="https://i.imgur.com/FgmeE0v.gif">
+  <img align="left" height="190" src="https://i.imgur.com/FgmeE0v.gif">
 </p>
 
 🙋🏻‍♀️ Senior studying Computer Science + Korean at New York Univesity
